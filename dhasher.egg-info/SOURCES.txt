@@ -1,0 +1,8 @@
+README.md
+setup.py
+dhasher/__init__.py
+dhasher/myhash.py
+dhasher.egg-info/PKG-INFO
+dhasher.egg-info/SOURCES.txt
+dhasher.egg-info/dependency_links.txt
+dhasher.egg-info/top_level.txt
