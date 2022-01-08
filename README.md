@@ -6,7 +6,7 @@
 1. Install package
  
 ```
-pip install dhasher==0.1.0
+pip install dhasher
  
 ```
 2. import the package 

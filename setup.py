@@ -6,7 +6,7 @@ with open("README.md", "r") as cd:
 setup(
     name='dhasher',
     packages=find_packages(include=['dhasher']),
-    version='0.1.0',
+    version='0.1.1',
     description='A python library for password hashing and verification existing password hashes',
     long_description=long_description,
     long_description_content_type="text/markdown",
